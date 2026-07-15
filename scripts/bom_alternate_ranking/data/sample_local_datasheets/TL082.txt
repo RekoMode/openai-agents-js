@@ -1,0 +1,1 @@
+TL082 dual JFET-input operational amplifier. Wide bandwidth, low input bias current, high slew rate, low harmonic distortion. Supply voltage +-3.5V to +-18V. Similar pinout and performance class to TL072. Package: DIP-8, SOIC-8.

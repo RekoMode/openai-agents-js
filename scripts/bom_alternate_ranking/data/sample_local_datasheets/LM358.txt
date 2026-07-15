@@ -1,0 +1,1 @@
+LM358 dual operational amplifier. General purpose, low power, single supply operation from 3V to 32V or dual supply. Wide bandwidth 1MHz, low input bias current, internally frequency compensated, common mode input voltage range includes ground. Package: DIP-8, SOIC-8.

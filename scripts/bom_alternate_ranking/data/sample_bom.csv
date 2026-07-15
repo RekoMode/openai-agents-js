@@ -1,0 +1,19 @@
+part_number,description,category
+LM358,Dual general-purpose operational amplifier low power single supply 3V to 32V,op-amp
+LM2904,Dual general-purpose operational amplifier low power single supply 3V to 26V automotive grade,op-amp
+LM358A,Dual general-purpose operational amplifier low power improved offset voltage grade,op-amp
+TL072,Dual low-noise JFET-input operational amplifier low input bias current,op-amp
+TL082,Dual JFET-input operational amplifier wide bandwidth low input bias current,op-amp
+NE5532,Dual low-noise high-performance audio operational amplifier low distortion,op-amp
+RC4558,Dual general-purpose operational amplifier internally compensated,op-amp
+OP07,Ultra-low offset voltage precision operational amplifier single channel,op-amp
+IRF540N,N-channel power MOSFET 100V 33A TO-220 low on-resistance,mosfet
+IRFZ44N,N-channel power MOSFET 55V 49A TO-220 logic level low on-resistance,mosfet
+IRLZ44N,N-channel logic-level power MOSFET 55V 47A TO-220 low gate threshold,mosfet
+STP55NF06,N-channel power MOSFET 60V 55A TO-220 low on-resistance,mosfet
+IRF640N,N-channel power MOSFET 200V 18A TO-220,mosfet
+CRCW08051K00FKEA,Thick film chip resistor 1 kOhm 1% 0805 SMD 125mW,resistor
+ERJ-6ENF1001V,Thick film chip resistor 1 kOhm 1% 0805 SMD 125mW,resistor
+RC0805FR-071KL,Thick film chip resistor 1 kOhm 1% 0805 SMD 125mW,resistor
+RMCF0805FT1K00,Thick film chip resistor 1 kOhm 1% 0805 SMD 125mW,resistor
+AC0805FR-071KL,Thick film chip resistor 1 kOhm 1% 0805 SMD anti-sulfur,resistor

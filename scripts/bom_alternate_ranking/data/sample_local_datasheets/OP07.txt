@@ -1,0 +1,1 @@
+OP07 ultra-low offset voltage precision operational amplifier, single channel. Very low input offset voltage and drift, low noise, high open-loop gain. Supply voltage +-3V to +-18V. Used in precision instrumentation. Package: DIP-8, SOIC-8.

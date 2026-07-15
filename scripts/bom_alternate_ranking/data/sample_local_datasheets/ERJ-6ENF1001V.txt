@@ -1,0 +1,1 @@
+ERJ-6ENF1001V thick film chip resistor. Resistance 1 kOhm, tolerance 1%, power rating 125mW, package 0805 SMD, temperature coefficient 200ppm/C.

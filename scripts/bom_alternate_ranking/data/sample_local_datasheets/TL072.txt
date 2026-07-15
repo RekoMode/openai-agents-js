@@ -1,0 +1,1 @@
+TL072 dual low-noise JFET-input operational amplifier. Low input bias and offset current, wide bandwidth, high slew rate, low total harmonic distortion, common mode and supply voltage rejection. Supply voltage +-3.5V to +-18V. Package: DIP-8, SOIC-8.

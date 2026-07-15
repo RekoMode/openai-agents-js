@@ -1,0 +1,6 @@
+data/datasheet_cache/*.txt
+data/part_texts.json
+data/part_embeddings.npz
+data/rankings.csv
+__pycache__/
+*.pyc
