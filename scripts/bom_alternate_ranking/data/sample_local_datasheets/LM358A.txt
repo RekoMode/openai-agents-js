@@ -1,0 +1,1 @@
+LM358A dual operational amplifier, improved input offset voltage grade of the LM358. Single supply 3V to 32V, low power, wide bandwidth 1MHz, internally compensated, common mode input range includes ground. Package: DIP-8, SOIC-8.

@@ -1,0 +1,1 @@
+IRLZ44N N-channel logic-level power MOSFET. VDSS 55V, ID 47A, RDS(on) 22 mOhm, TO-220 package. Low gate threshold voltage suitable for direct microcontroller/logic drive, avalanche rated.

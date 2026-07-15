@@ -1,0 +1,1 @@
+LM2904 dual operational amplifier, automotive grade version of the LM358 family. Single supply 3V to 26V, low power consumption, wide bandwidth 1MHz, low input bias current, internally compensated. AEC-Q100 qualified. Package: SOIC-8.

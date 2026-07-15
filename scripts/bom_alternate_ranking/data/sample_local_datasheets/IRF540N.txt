@@ -1,0 +1,1 @@
+IRF540N N-channel power MOSFET. VDSS 100V, ID 33A, RDS(on) 44 mOhm, TO-220 package. Low gate charge, avalanche rated, suitable for switching and motor drive applications.

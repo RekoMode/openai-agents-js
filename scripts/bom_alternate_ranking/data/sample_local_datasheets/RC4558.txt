@@ -1,0 +1,1 @@
+RC4558 dual general-purpose operational amplifier, internally compensated, high gain, wide bandwidth. Similar performance class to LM358/TL072 family, common in audio and general-purpose analog circuits. Supply voltage +-4V to +-18V. Package: DIP-8, SOIC-8.

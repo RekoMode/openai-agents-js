@@ -1,0 +1,1 @@
+IRFZ44N N-channel power MOSFET. VDSS 55V, ID 49A, RDS(on) 17.5 mOhm, TO-220 package, logic-level compatible gate. Low on-resistance, avalanche rated, popular for DC motor and switching applications.

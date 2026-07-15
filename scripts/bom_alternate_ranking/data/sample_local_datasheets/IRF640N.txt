@@ -1,0 +1,1 @@
+IRF640N N-channel power MOSFET. VDSS 200V, ID 18A, RDS(on) 150 mOhm, TO-220 package. Avalanche rated, suited for higher-voltage switching applications.

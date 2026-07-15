@@ -1,0 +1,1 @@
+NE5532 dual low-noise high-performance audio operational amplifier. High slew rate, low distortion, low noise, unity gain stable, high output drive capability. Supply voltage +-3V to +-20V. Widely used in professional audio equipment. Package: DIP-8, SOIC-8.

@@ -1,0 +1,1 @@
+STP55NF06 N-channel power MOSFET. VDSS 60V, ID 55A, RDS(on) 16 mOhm, TO-220 package. Low on-resistance, avalanche rated, suitable for switching and motor drive applications.
